@@ -1,2 +1,3 @@
-hello 
-sky
+hello;
+sky;
+ocean;
